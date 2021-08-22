@@ -3,9 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-theme: jekyll-theme-midnight
 title: Home
 ---
 
-
-# notes
+A place for notes
