@@ -29,7 +29,7 @@ twitter_username: TobyMorganVFX
 github_username:  Toby Morgan
 
 # Build settings
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
