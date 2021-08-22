@@ -4,4 +4,3 @@
 
 layout: home
 ---
-# Toby Morgan notes and projects
