@@ -1,4 +1,9 @@
+---
+layout: default
+---
+
 # Rigging and deformations in Houdini
+<br>
 
 # Kinefx
 
