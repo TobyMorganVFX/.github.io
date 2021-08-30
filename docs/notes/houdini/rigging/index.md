@@ -1,7 +1,9 @@
 ---
+is_post: false
 layout: default
 title:  "Rigging"
 ---
+
 
 # Rigging and deformations in Houdini
 <br>
