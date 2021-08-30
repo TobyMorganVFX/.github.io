@@ -57,6 +57,8 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+defaults:
+  -
     scope:
       type: notes
       path: _notes
