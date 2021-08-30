@@ -1,5 +1,6 @@
 ---
 layout: default
+title:  "Rigging"
 ---
 
 # Rigging and deformations in Houdini
