@@ -1,5 +1,6 @@
 ---
 is_post: false
+permalink: /houdini/rigging/
 layout: default
 title:  "Rigging"
 ---

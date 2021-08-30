@@ -9,4 +9,4 @@ layout: default
 <br>
 #### houdini   
 ---
-[Rigging](_notes\houdini\rigging\index.md)
+[Rigging](/houdini/rigging/)
