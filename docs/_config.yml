@@ -65,3 +65,5 @@ defaults:
     values:
       is_post: false
       layout: default
+
+include: [_notes/houdini/rigging]
